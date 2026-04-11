@@ -15,4 +15,4 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treepot12)](https://github.com/anuraghazra/github-readme-stats)
+[![임승현's GitHub stats](https://github-readme-stats.vercel.app/api?username=treepot12)](https://github.com/anuraghazra/github-readme-stats)
