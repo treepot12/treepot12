@@ -11,8 +11,6 @@
 
 
 
-<a href="https://grafana.com/">
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white"/>
-</a>
+
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
